@@ -1,0 +1,14 @@
+{
+	"scripts": {
+		"min": "terser log.js --compress --mangle --output log.min.js"
+	},
+	"dependencies": {
+		"terser": "^4.3.9"
+	},
+	"name": "cabin-script",
+	"version": "1.0.0",
+	"main": "log,js",
+	"repository": "https://github.com/mulhoon/cabin-script.git",
+	"author": "Nic Mulvaney <nic@nicmulvaney.com>",
+	"license": "MIT"
+}
