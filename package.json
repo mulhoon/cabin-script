@@ -3,7 +3,7 @@
 		"min": "terser log.js --compress --mangle --output log.min.js"
 	},
 	"dependencies": {
-		"terser": "^4.3.9"
+		"terser": "^4.8.1"
 	},
 	"name": "cabin-script",
 	"version": "1.0.0",
